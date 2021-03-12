@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Inria Lille - Nord Europe in [Modal team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](https://scholar.google.com/citations?user=J1CxrbIAAAAJ&hl=fr) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on multilayer graph clustering.
 
 ## Research Interests
 
