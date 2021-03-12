@@ -15,8 +15,7 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 - **Clustering multilayer graphs with missing nodes**
   <br>
-  G. Braun, H. Tyagi, and C. Biernacki, to appear in AISTATS 2021. [[PDF](https://arxiv.org/abs/2103.03235)] [[Code](https://github.com/glmbraun/mNodes)]
-
+  G. Braun, H. Tyagi, and C. Biernacki, to appear in AISTATS 2021. [[arXiv](https://arxiv.org/abs/2103.03235)] [[Code](https://github.com/glmbraun/mNodes)]
 
 ## Selected Talks
 
