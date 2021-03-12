@@ -21,12 +21,12 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 - **Clustering multilayer graphs with missing nodes**
   <br>
-  MODAL Seminar, Lille, November 2020 [[Slides](https://github.com/glmbraun/glmbraun.github.io/blob/d088da6ab8eeddc920c173aa3310370ea4cfb376/documents/Modal_s_Seminar__Clustering__ML_graphs_with_missing_nodes_.pdf)]
+  MODAL Seminar, Lille, November 2020 [[Slides](https://glmbraun.github.io/documents/Modal_s_Seminar__Clustering__ML_graphs_with_missing_nodes_.pdf)]
 
 ## Services
 
 - Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/).
 
 ## Education 
-My detailed CV is avaible [here](https://github.com/glmbraun/glmbraun.github.io/blob/d088da6ab8eeddc920c173aa3310370ea4cfb376/documents/CV__English_.pdf)
+My detailed CV is avaible [here](https://glmbraun.github.io/documents/CV__English_.pdf)
 
