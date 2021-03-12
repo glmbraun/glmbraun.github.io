@@ -28,5 +28,5 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 - Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/).
 
 ## Education 
-[CV](https://github.com/glmbraun/glmbraun.github.io/blob/d088da6ab8eeddc920c173aa3310370ea4cfb376/documents/CV__English_.pdf)
+My detailed CV is avaible [here](https://github.com/glmbraun/glmbraun.github.io/blob/d088da6ab8eeddc920c173aa3310370ea4cfb376/documents/CV__English_.pdf)
 
