@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](https://scholar.google.com/citations?user=J1CxrbIAAAAJ&hl=fr) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on multilayer graph clustering.
-
-
-## News
-
-- **[Jan 2021]** Our paper about clustering multilayer graphs with missing nodes has been accepted to [AISTATS2021](https://aistats.org/aistats2021/).
+I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on inverse problems on graphs (mostly clustering and matching problems). I'm particulary interested in iterative methods including model-based approach like EM algorithm and model-free algorithms like generalized power methods. I'm also familiar with spectral methods, perturbation theory and concentration inequalities.
 
 ## Publications
 
 - **Clustering multilayer graphs with missing nodes**
   <br>
-  G. Braun, H. Tyagi, and C. Biernacki, to appear in AISTATS 2021. [[arXiv](https://arxiv.org/abs/2103.03235)] [[Code](https://github.com/glmbraun/mNodes)]
+  G. Braun, H. Tyagi, and C. Biernacki, 24th International Conference on Artificial Intelligence and Statistics, 2021, 2260-2268. [[PMLR](https://proceedings.mlr.press/v130/)[arXiv](https://arxiv.org/abs/2103.03235)] [[Code](https://github.com/glmbraun/mNodes)]
 
-## Selected Talks
+## Talks
+- **Integrating heterogenous sources of information in the clustering process with optimality guarantees**
+  <br>
+  MODAL Seminar, Lille (online), November 30th, 2021 (to come)
+  
+- **Clustering graphs with side information**
+  <br>
+  SPSR Workshop, Bucharest (online), November 19th, 2021 (to come)
 
 - **Clustering multilayer graphs with missing nodes**
   <br>
@@ -25,7 +27,7 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 ## Services
 
-- Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/).
+- Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/).
 
 ## Education 
 My detailed CV is avaible [here](https://glmbraun.github.io/documents/CV__English_.pdf)
