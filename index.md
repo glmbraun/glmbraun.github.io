@@ -13,13 +13,13 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
   G. Braun, H. Tyagi, and C. Biernacki, 24th International Conference on Artificial Intelligence and Statistics, 2021, 2260-2268. [[PMLR](https://proceedings.mlr.press/v130/braun21a.html)] [[Code](https://github.com/glmbraun/mNodes)]
 
 ## Talks
-- **Integrating heterogenous sources of information in the clustering process with optimality guarantees**
+- **Integrating heterogeneous sources of information in the clustering process with optimality guarantees**
   <br>
   MODAL Seminar, Lille (online), November 30th, 2021 (to come)
   
 - **Clustering graphs with side information**
   <br>
-  SPSR Workshop, Bucharest (online), November 19th, 2021 (to come)
+  SPSR Workshop, Bucharest (online), November 19th, 2021 
 
 - **Clustering multilayer graphs with missing nodes**
   <br>
