@@ -1,1 +1,1 @@
-Répertoire contenant le CV, les slides, etc.
+Répertoire contenant les slides, documents de travail, etc.
