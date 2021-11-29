@@ -7,7 +7,8 @@ layout: homepage
 I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on inverse problems on graphs (mostly clustering and matching problems). I'm particulary interested in iterative methods including model-based approaches like EM algorithms and model-free approaches like generalized power methods. I'm also familiar with spectral methods, perturbation theory and concentration inequalities.
 
 ## Publications
--**An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
+
+- **An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
   <br>
   G. Braun, H. Tyagi, and C. Biernacki, under revision. [[Working document](https://www.sfrcloud.sfr.fr/web/app/share/invite/8KPNlcdXSn)]
   
