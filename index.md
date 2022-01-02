@@ -10,7 +10,7 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 - **An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
   <br>
-  G. Braun, H. Tyagi, and C. Biernacki, under revision. [[Working document](https://glmbraun.github.io/documents/CSBM_work_doc.pdf)]
+  G. Braun, H. Tyagi, and C. Biernacki, under revision. [[ArXiv](https://arxiv.org/abs/2112.10467)]
   
 - **Clustering multilayer graphs with missing nodes**
   <br>
