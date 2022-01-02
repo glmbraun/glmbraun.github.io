@@ -19,7 +19,7 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 ## Talks
 - **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
   <br>
-  MODAL Seminar, Lille (online), November 30th, 2021 (to come)
+  MODAL Seminar, Lille (online), November 30th, 2021
   
 - **Clustering graphs with side information**
   <br>
