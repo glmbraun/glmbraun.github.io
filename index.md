@@ -7,13 +7,17 @@ layout: homepage
 I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on inverse problems on graphs (mostly clustering and matching problems). I'm particulary interested in iterative methods including model-based approaches like EM algorithms and model-free approaches like generalized power methods. I'm also familiar with spectral methods, perturbation theory and concentration inequalities.
 
 ## Publications
+- **Minimax Optimal Clustering of Bipartite Graphs with a Generalized Power Method**
+  <br>
+  G. Braun and H. Tyagi [[ArXiv](https://arxiv.org/abs/2205.12104)]
+  
 - **Seeded graph matching for the correlated Wigner model via the projected power method**
   <br>
   E. Araya, G. Braun and H. Tyagi [[ArXiv](https://arxiv.org/abs/2204.04099)]
 
 - **An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
   <br>
-  G. Braun, H. Tyagi, and C. Biernacki, under revision. [[ArXiv](https://arxiv.org/abs/2112.10467)]
+  G. Braun, H. Tyagi, and C. Biernacki, to appear in ICML 2022. [[ArXiv](https://arxiv.org/abs/2112.10467)]
   
 - **Clustering multilayer graphs with missing nodes**
   <br>
