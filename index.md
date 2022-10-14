@@ -46,7 +46,7 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 ## Services
 
-- Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/).
+- Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/), [ICML 2022](https://icml.cc/), [AISTATS 2023](https://aistats.org/aistats2023/).
 
 ## Education 
 My detailed CV is avaible [here](https://glmbraun.github.io/documents/CV__English_.pdf)
