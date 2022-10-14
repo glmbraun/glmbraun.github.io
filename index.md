@@ -24,6 +24,14 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
   G. Braun, H. Tyagi, and C. Biernacki, 24th International Conference on Artificial Intelligence and Statistics, 2021, 2260-2268. [[PMLR](https://proceedings.mlr.press/v130/braun21a.html)] [[Code](https://github.com/glmbraun/mNodes)][[Poster](https://glmbraun.github.io/documents/Poster_AISTATS_2021.pdf)]
 
 ## Talks
+- **Clustering Bipartite graphs with the Generalized Power Method**
+  <br>
+  SIAM workshop on Network Science 2022, lightning talk
+  
+- **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
+  <br>
+  ICML 2022, Poster session and spotlight talk
+  
 - **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
   <br>
   MODAL Seminar, Lille (online), November 30th, 2021
