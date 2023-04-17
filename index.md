@@ -9,7 +9,7 @@ Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL 
 
 ## Publications
 - **Strong Consistency Guarantees for Clustering High-Dimensional Bipartite Graphs with the Spectral Method**
- <br>
+  <br>
   G. Braun [[ArXiv](http://arxiv.org/abs/2304.06903)]
   
 - **Minimax Optimal Clustering of Bipartite Graphs with a Generalized Power Method**
