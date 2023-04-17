@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Since April 2023, I am a postdoctoral researcher in the [Imperfect Information Learning Team(https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html)] at [RIKEN(https://www.riken.jp/en/)], under the supervision of [Masashi Sugiyama(http://www.ms.k.u-tokyo.ac.jp/sugi/)], working on learning problems involving partial and noisy labels.
+Since April 2023, I am a postdoctoral researcher in the [Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html) at [RIKEN](https://www.riken.jp/en/), under the supervision of [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/), working on learning problems involving partial and noisy labels.
 
 Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis(https://hal.science/tel-03889078/document)] focused on clustering and matching problems on graphs with efficient first order methods.
 
