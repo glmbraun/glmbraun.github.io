@@ -3,21 +3,26 @@ layout: homepage
 ---
 
 ## About Me
+Since April 2023, I am a postdoctoral researcher in the [Imperfect Information Learning Team(https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html)] at [RIKEN(https://www.riken.jp/en/)], under the supervision of [Masashi Sugiyama(http://www.ms.k.u-tokyo.ac.jp/sugi/)], working on learning problems involving partial and noisy labels.
 
-I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.inria.fr/modal/) since January 2020. I work under the direction of [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/) on inverse problems on graphs (mostly clustering and matching problems). I'm particulary interested in iterative methods including model-based approaches like EM algorithms and model-free approaches like generalized power methods. I'm also familiar with spectral methods, perturbation theory and concentration inequalities.
+Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis(https://hal.science/tel-03889078/document)] focused on clustering and matching problems on graphs with efficient first order methods.
 
 ## Publications
+- **Strong Consistency Guarantees for Clustering High-Dimensional Bipartite Graphs with the Spectral Method**
+ <br>
+  G. Braun [[ArXiv](http://arxiv.org/abs/2304.06903)]
+  
 - **Minimax Optimal Clustering of Bipartite Graphs with a Generalized Power Method**
   <br>
-  G. Braun and H. Tyagi [[ArXiv](https://arxiv.org/abs/2205.12104)]
+  G. Braun and H. Tyagi,  Information and Inference: A Journal of the IMA (to appear). [[ArXiv](https://arxiv.org/abs/2205.12104)]
   
 - **Seeded graph matching for the correlated Wigner model via the projected power method**
   <br>
   E. Araya, G. Braun and H. Tyagi [[ArXiv](https://arxiv.org/abs/2204.04099)]
 
 - **An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
-  <br>
-  G. Braun, H. Tyagi, and C. Biernacki, to appear in ICML 2022. [[ArXiv](https://arxiv.org/abs/2112.10467)]
+  <br>89
+  G. Braun, H. Tyagi, and C. Biernacki, 39th International Conference on Machine Learning (ICML), 2022, 2257-2291. [[ArXiv](https://arxiv.org/abs/2112.10467)]
   
 - **Clustering multilayer graphs with missing nodes**
   <br>
@@ -48,6 +53,5 @@ I am a Ph.D. student at Inria Lille - Nord Europe in [MODAL team](https://team.i
 
 - Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/), [ICML 2022](https://icml.cc/), [AISTATS 2023](https://aistats.org/aistats2023/).
 
-## Education 
-My detailed CV is avaible [here](https://glmbraun.github.io/documents/CV__English_.pdf)
+
 
