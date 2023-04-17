@@ -21,7 +21,7 @@ Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL 
   E. Araya, G. Braun and H. Tyagi [[ArXiv](https://arxiv.org/abs/2204.04099)]
 
 - **An iterative clustering algorithm for the Contextual StochasticBlock Model with optimality guarantees**
-  <br>89
+  <br>
   G. Braun, H. Tyagi, and C. Biernacki, 39th International Conference on Machine Learning (ICML), 2022, 2257-2291. [[ArXiv](https://arxiv.org/abs/2112.10467)]
   
 - **Clustering multilayer graphs with missing nodes**
