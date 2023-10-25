@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 Since April 2023, I am a postdoctoral researcher in the [Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html) at [RIKEN](https://www.riken.jp/en/), under the supervision of [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/), working on learning problems involving partial and noisy labels.
 
-Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis](https://hal.science/tel-03889078/document) focused on clustering and matching problems on graphs with efficient first order methods.
+Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis](https://hal.science/tel-03889078/document) focused on clustering and matching problems on graphs with efficient first-order methods.
 
 ## Publications
 - **Strong Consistency Guarantees for Clustering High-Dimensional Bipartite Graphs with the Spectral Method**
@@ -31,7 +31,7 @@ Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL 
 ## Talks
 - **Clustering Bipartite graphs with the Generalized Power Method**
   <br>
-  SIAM workshop on Network Science 2022, lightning talk
+  SIAM Workshop on Network Science 2022, lightning talk
   
 - **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
   <br>
@@ -49,9 +49,10 @@ Before that, I was a Ph.D. student at Inria Lille - Nord Europe, part of [MODAL 
   <br>
   MODAL Seminar, Lille, November 2020 [[Slides](https://glmbraun.github.io/documents/Modal_s_Seminar__Clustering__ML_graphs_with_missing_nodes_.pdf)]
 
-## Services
+## Reviewing
 
-- Conference Reviewers: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/), [ICML 2022](https://icml.cc/), [AISTATS 2023](https://aistats.org/aistats2023/).
+- Conferences: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/), [ICML 2022](https://icml.cc/), [AISTATS 2023](https://aistats.org/aistats2023/), [AISTATS 2024](https://aistats.org/aistats2024/).
+- Journals: [Journal of Machine Learning Research](https://www.jmlr.org/).
 
 
 
