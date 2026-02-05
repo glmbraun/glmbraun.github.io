@@ -22,7 +22,7 @@ under Power-Law Data**
 - **Learning a Single Index Model from Anisotropic Data with
 Vanilla Stochastic Gradient Descent**
   <br>
-  G. Braun, H.Q. Minh and M. Imaizumi, AISTATS (2025)
+  G. Braun, H.Q. Minh and M. Imaizumi, AISTATS (2025) [[Arxiv](https://arxiv.org/pdf/2503.23642)]
 - **VEC-SBM: Optimal Community Detection with Vectorial Edge Covariates**
   <br>
   G. Braun and M. Sugiyama, AISTATS (2024) [[PMLR](https://proceedings.mlr.press/v238/braun24a/braun24a.pdf)]
@@ -72,7 +72,7 @@ Vanilla Stochastic Gradient Descent**
 
 ## Reviewing
 
-- Conferences: [AISTATS 2021](https://aistats.org/aistats2021/), [AISTATS 2022](https://aistats.org/aistats2022/), [ICML 2022](https://icml.cc/), [AISTATS 2023](https://aistats.org/aistats2023/), [AISTATS 2024](https://aistats.org/aistats2024/), [AISTATS 2025](https://aistats.org/aistats2024/).
+- Conferences: AISTATS, ICML, ICLR, NeurIPS.
 - Journals: [Journal of Machine Learning Research](https://www.jmlr.org/), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/).
 
 
