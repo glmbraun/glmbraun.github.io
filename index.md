@@ -11,7 +11,7 @@ Before that, I was a postdoctoral researcher in the [Imperfect Information Learn
 - **Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A
 Case Study in Phase Retrieval**
   <br>
-  G. Braun, H. Bao, W. Huang, M. Imaizumi, Preprint (2026) [[Arxiv]([https://arxiv.org/pdf/2511.18661](https://arxiv.org/pdf/2601.22652v1))]
+  G. Braun, H. Bao, W. Huang, M. Imaizumi, Preprint (2026) [[Arxiv]((https://arxiv.org/pdf/2601.22652v1))]
 - **Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval
 under Power-Law Data**
   <br>
