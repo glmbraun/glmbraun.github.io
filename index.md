@@ -3,11 +3,22 @@ layout: homepage
 ---
 
 ## About Me
-Since April 2024, I have been a postdoctoral researcher in the [High-Dimensional Causal Analysis Team](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_cause_anl/index.html) at [RIKEN](https://www.riken.jp/en/), under the supervision of [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/), working on theoretical machine learning and high-dimensional statistics.
+Since April 2024, I have been a postdoctoral researcher in the [High-Dimensional Structure Theory Team](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_struct_theor/index.html) at [RIKEN](https://www.riken.jp/en/), under the supervision of [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/), working on theoretical machine learning and high-dimensional statistics.
 
 Before that, I was a postdoctoral researcher in the [Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html) from 2023 to 2024. Prior to that, I completed my Ph.D. at Inria Lille - Nord Europe, as part of the [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis](https://hal.science/tel-03889078/document) focused on clustering and matching problems on graphs with efficient first-order methods.
 
 ## Publications
+- **Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A
+Case Study in Phase Retrieval**
+  <br>
+  G. Braun, H. Bao, W. Huang, M. Imaizumi, Preprint (2026) [[Arxiv]([https://arxiv.org/pdf/2511.18661](https://arxiv.org/pdf/2601.22652v1))]
+- **Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval
+under Power-Law Data**
+  <br>
+  G. Braun, B. Loureiro, H.Q. Minh, M. Imaizumi, ICLR (2026) [[Arxiv](https://arxiv.org/pdf/2511.18661)]
+- **Neuron Block Dynamics for XOR Classification with Zero-Margin**
+  <br>
+  G. Braun and M. Imaizumi, AISTATS (2026)[[Arxiv](https://www.arxiv.org/pdf/2602.00172)]
 - **Learning a Single Index Model from Anisotropic Data with
 Vanilla Stochastic Gradient Descent**
   <br>
