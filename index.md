@@ -15,7 +15,7 @@ Case Study in Phase Retrieval**
 - **Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval
 under Power-Law Data**
   <br>
-  G. Braun, B. Loureiro, H.Q. Minh, M. Imaizumi, ICLR (2026) [[Arxiv](https://arxiv.org/pdf/2511.18661)]
+  G. Braun, B. Loureiro, H.Q. Minh, M. Imaizumi, ICLR (2026), <span style="color: violet; font-weight: bold;">Oral Presentation</span>   [[Arxiv](https://arxiv.org/pdf/2511.18661)]
 - **Neuron Block Dynamics for XOR Classification with Zero-Margin**
   <br>
   G. Braun and M. Imaizumi, AISTATS (2026)[[Arxiv](https://www.arxiv.org/pdf/2602.00172)]
