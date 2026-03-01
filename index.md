@@ -51,7 +51,7 @@ Vanilla Stochastic Gradient Descent**
   <br>
   G. Braun, H. Tyagi, and C. Biernacki, AISTATS (2021). [[PMLR](https://proceedings.mlr.press/v130/braun21a.html)] [[Code](https://github.com/glmbraun/mNodes)][[Poster](https://glmbraun.github.io/documents/Poster_AISTATS_2021.pdf)]
 
-## Talks
+## Invited Talks
 - **How Anisotropy Shapes Learning Dynamics and the Role of Optimization Geometry**  
   [FIMI 2026](https://fimiws.github.io/fimi2026/), Tokyo.
 
@@ -65,10 +65,6 @@ Vanilla Stochastic Gradient Descent**
 - **Clustering Bipartite graphs with the Generalized Power Method**
   <br>
   SIAM Workshop on Network Science 2022, lightning talk
-  
-- **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
-  <br>
-  ICML 2022, spotlight talk
   
 - **Clustering graphs with side information**
   <br>
