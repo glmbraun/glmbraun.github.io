@@ -47,12 +47,12 @@ Vanilla Stochastic Gradient Descent**
   G. Braun, H. Tyagi, and C. Biernacki, AISTATS (2021). [[PMLR](https://proceedings.mlr.press/v130/braun21a.html)] [[Code](https://github.com/glmbraun/mNodes)][[Poster](https://glmbraun.github.io/documents/Poster_AISTATS_2021.pdf)]
 
 ## Talks
-- **How Anisotropy Shapes Learning Dynamics and the Role of Optimization Geometry**
-<br>
-[FIMI 2026 (https://fimiws.github.io/fimi2026/)]
-- **異方性データを用いたシングルインデックスモデルの学習：バニラSGDの解析**
-<br>
-[FIT 2025(https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/event/TCS4-2.html)]
+- **How Anisotropy Shapes Learning Dynamics and the Role of Optimization Geometry**  
+  [FIMI 2026](https://fimiws.github.io/fimi2026/), Tokyo.
+
+- **異方性データを用いたシングルインデックスモデルの学習：バニラSGDの解析**  
+  [FIT 2025](https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/event/TCS4-2.html), Sapporo.
+
 - **Clustering de graphes bipartis en grande dimension : limites statistiques et algorithmes efficaces**
   <br>
   Journées MAS 2024, Poitiers.
