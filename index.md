@@ -56,25 +56,19 @@ Vanilla Stochastic Gradient Descent**
 - **Clustering de graphes bipartis en grande dimension : limites statistiques et algorithmes efficaces**
   <br>
   Journées MAS 2024, Poitiers.
+  
 - **Clustering Bipartite graphs with the Generalized Power Method**
   <br>
   SIAM Workshop on Network Science 2022, lightning talk
   
 - **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
   <br>
-  ICML 2022, Poster session and spotlight talk
-  
-- **An iterative clustering algorithm for the Contextual Stochastic Block Model with optimality guarantees**
-  <br>
-  MODAL Seminar, Lille (online), November 30th, 2021
+  ICML 2022, spotlight talk
   
 - **Clustering graphs with side information**
   <br>
   SPSR Workshop, Bucharest (online), November 19th, 2021 
 
-- **Clustering multilayer graphs with missing nodes**
-  <br>
-  MODAL Seminar, Lille, November 2020 [[Slides](https://glmbraun.github.io/documents/Modal_s_Seminar__Clustering__ML_graphs_with_missing_nodes_.pdf)]
 
 ## Reviewing
 
