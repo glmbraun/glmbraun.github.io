@@ -12,20 +12,25 @@ Before that, I was a postdoctoral researcher in the [Imperfect Information Learn
 Case Study in Phase Retrieval**
   <br>
   G. Braun, H. Bao, W. Huang, M. Imaizumi, Preprint (2026) [[Arxiv](https://arxiv.org/pdf/2601.22652v1)]
+  
 - **Fast Escape, Slow Convergence: Learning Dynamics of Phase Retrieval
 under Power-Law Data**
   <br>
   G. Braun, B. Loureiro, H.Q. Minh, M. Imaizumi, ICLR (2026), <span style="color: violet; font-weight: bold;">Oral Presentation</span>   [[Arxiv](https://arxiv.org/pdf/2511.18661)]
+  
 - **Neuron Block Dynamics for XOR Classification with Zero-Margin**
   <br>
   G. Braun and M. Imaizumi, AISTATS (2026)[[Arxiv](https://www.arxiv.org/pdf/2602.00172)]
+  
 - **Learning a Single Index Model from Anisotropic Data with
 Vanilla Stochastic Gradient Descent**
   <br>
   G. Braun, H.Q. Minh and M. Imaizumi, AISTATS (2025) [[Arxiv](https://arxiv.org/pdf/2503.23642)]
+  
 - **VEC-SBM: Optimal Community Detection with Vectorial Edge Covariates**
   <br>
   G. Braun and M. Sugiyama, AISTATS (2024) [[PMLR](https://proceedings.mlr.press/v238/braun24a/braun24a.pdf)]
+  
 - **Strong Consistency Guarantees for Clustering High-Dimensional Bipartite Graphs with the Spectral Method**
   <br>
   G. Braun, Electronic Journal of Statistics (2024) [[EJS](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Strong-consistency-guarantees-for-clustering-high-dimensional-bipartite-graphs-with/10.1214/24-EJS2271.full)]
