@@ -52,6 +52,9 @@ Vanilla Stochastic Gradient Descent**
   G. Braun, H. Tyagi, and C. Biernacki, AISTATS (2021). [[PMLR](https://proceedings.mlr.press/v130/braun21a.html)] [[Code](https://github.com/glmbraun/mNodes)][[Poster](https://glmbraun.github.io/documents/Poster_AISTATS_2021.pdf)]
 
 ## Invited Talks
+- **Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval**  
+  [MyJP-SIM² 2026](https://qingfeng-liu.github.io/MyJP-SIM2_2026.html), Tokyo
+  
 - **How Anisotropy Shapes Learning Dynamics and the Role of Optimization Geometry**  
   [FIMI 2026](https://fimiws.github.io/fimi2026/), Tokyo.
 
