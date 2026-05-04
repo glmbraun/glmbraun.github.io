@@ -53,7 +53,7 @@ Vanilla Stochastic Gradient Descent**
 
 ## Invited Talks
 - **Learning Dynamics of Phase Retrieval under Power-Law Data** 
-    [IMS-APRM](https://ims-aprm2026.sta.cuhk.edu.hk/), Honk-Kong, June 2026
+    [IMS-APRM](https://ims-aprm2026.sta.cuhk.edu.hk/), Hong-Kong, June 2026
    
 - **Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval**  
   [MyJP-SIM² 2026](https://qingfeng-liu.github.io/MyJP-SIM2_2026.html), Tokyo
