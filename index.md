@@ -3,14 +3,18 @@ layout: homepage
 ---
 
 ## About Me
-Since April 2024, I have been a postdoctoral researcher in the [High-Dimensional Structure Theory Team](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_struct_theor/index.html) at [RIKEN](https://www.riken.jp/en/), under the supervision of [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/), working on theoretical machine learning and high-dimensional statistics.
+I am a Research Scientist (Assistant Professor-level position) in the [High-Dimensional Structure Theory Team](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_struct_theor/index.html) at [RIKEN](https://www.riken.jp/en/), working on theoretical machine learning and high-dimensional statistics with [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/).
 
-Before that, I was a postdoctoral researcher in the [Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html) from 2023 to 2024. Prior to that, I completed my Ph.D. at Inria Lille - Nord Europe, as part of the [MODAL team](https://team.inria.fr/modal/), supervised by [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/). My [thesis](https://hal.science/tel-03889078/document) focused on clustering and matching problems on graphs with efficient first-order methods.
+Previously, I was a postdoctoral researcher in the same team (2024–2026) and in the [Imperfect Information Learning Team](https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/index.html) (2023–2024) at RIKEN. I obtained my Ph.D. from the University of Lille in December 2022, under the supervision of [Christophe Biernacki](http://math.univ-lille1.fr/~biernack/) and [Hemant Tyagi](https://hemant-tyagi.github.io/).
 
 ## Research Interests
-My research lies in high-dimensional statistics and optimization, with applications to the theoretical understanding of modern machine learning algorithms and architectures. My current work studies the dynamics of neural networks trained by gradient-based methods, focusing on feature learning and how data geometry shapes their behavior.
+My research lies at the intersection of high-dimensional statistics, optimization, and theoretical machine learning. My current work focuses on the dynamics, implicit bias, and generalization of gradient-based learning algorithms, with particular interest in feature learning and the role of data geometry.
 
 ## Publications
+- **Overfitting of Spectral Gradient Descent: How Matrix Geometry Shapes Generalization and Implicit Bias**
+  <br>
+  G. Braun, I. Hashimoto, M. Imaizumi, Preprint [[Arxiv](https://arxiv.org/abs/2609.32270)]
+
 - **Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A
 Case Study in Phase Retrieval**
   <br>
